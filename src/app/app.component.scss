@@ -1,0 +1,63 @@
+button{
+  margin: 0.2rem;
+  background-color: rgb(211, 211, 211);
+}
+input{
+  margin: 1rem;
+  height: 1.8rem;
+  border-radius: 0.2rem;
+  border-color: rgb(137, 188, 255);
+}
+
+.filmItem{
+  margin: 1rem;
+  height: 15rem;
+  width: 45rem;
+  border: 1px solid;
+  border-radius: 0.4rem;
+  border-color: rgb(137, 188, 255);
+}
+.filmItemNoFound{
+  margin: 1rem;
+  height: 10rem;
+  width: 45rem;
+  border: 1px solid;
+  border-radius: 0.4rem;
+  border-color: rgb(137, 188, 255);
+  padding-top: 5rem;
+  text-align: center;
+  top: 5rem;
+}
+img#view{
+  margin: 0.5rem;
+  height: 14rem;
+  max-width:12rem;
+}
+.desc{
+  position: absolute;
+  left: 14rem;
+  top: 6rem;
+  max-width: 30rem;
+  white-space: normal;
+}
+.list{
+  margin: 2rem;
+}
+span{
+  margin: 1rem;
+}
+.filmInfo{
+  margin: 1rem;
+  height: 15rem;
+  width: 45rem;
+  border: 1px solid;
+  border-radius: 0.4rem;
+  border-color: rgb(137, 188, 255);
+}
+.descInfo{
+  position: relative;
+  left: 14rem;
+  top: -14rem;
+  max-width: 30rem;
+  white-space: normal;
+}
